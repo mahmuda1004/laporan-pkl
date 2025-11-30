@@ -40,35 +40,35 @@ Berikut beberapa tampilan website selama PKL:
 
 ### Sign Up
 Form untuk membuat akun dengan input Username, Email, Password, dan Re-Password.  
-![Sign Up](screenshots/signup.png)
+![Sign Up](./sign_up.png)
 
 ### Log In
 Form login dengan email dan password. Dapat diarahkan ke Sign Up jika belum memiliki akun.  
-![Log In](screenshots/login.png)
+![Log In](./log_in.png)
 
 ### Home
 Menampilkan foto atau gambar hasil input dari halaman Input Data.  
-![Home](screenshots/home.png)
+![Home](./home.png)
 
 ### Input Data
 Form input data: name, date, place, address, customer’s name, dan image.  
-![Input Data](screenshots/input_data.png)
+![Input Data](./input_data.png)
 
 ### Overview
 Menampilkan data yang telah diinput. Data dapat dihapus atau dicetak ke Excel.  
-![Overview](screenshots/overview.png)
+![Overview](./overview.png)
 
 ### My Account
 Menu untuk mengubah password atau logout dari website.  
-![My Account](screenshots/my_account.png)
+![My Account](./my_account.png)
 
 ### Change Password
 Form untuk mengganti password lama dengan password baru.  
-![Change Password](screenshots/change_password.png)
+![Change Password](./change_password.png)
 
 ### About Us
 Halaman pengenalan Telkom Indonesia, sejarah, produk, dan visi misi.  
-![About Us](screenshots/about_us.png)
+![About Us](./about_us.png)
 
 ---
 
