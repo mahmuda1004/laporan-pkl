@@ -36,7 +36,7 @@ Berikut beberapa tabel utama:
 ---
 
 ## Tampilan Website
-Berikut beberapa tampilan website selama PKL:
+Berikut beberapa tampilan websitenya:
 
 ### Sign Up
 Form untuk membuat akun dengan input Username, Email, Password, dan Re-Password.  
