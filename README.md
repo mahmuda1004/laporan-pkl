@@ -28,10 +28,10 @@ Pengelolaan database menggunakan **phpMyAdmin** untuk database **MySQL**.
 Berikut beberapa tabel utama:
 
 - **Tabel user**: 4 atribut (id, username, email, password)  
-  ![Database User](screenshots/database_user.png)
+  ![Database User](./database_user.png)
 
 - **Tabel tb_galery**: 7 atribut (id, nama, tempat, alamat, pelanggan, waktu, file)  
-  ![Database Gallery](screenshots/database_tb_galery.png)
+  ![Database Gallery](./database_tb_galery.png)
 
 ---
 
